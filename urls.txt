@@ -1,0 +1,6 @@
+https://www.google.com/search?q=python
+https://uk.wikipedia.org/wiki/Python
+http://www.rada.gov.ua
+https://www.bbc.co.uk/news
+https://www.python.org
+https://github.com/user/repo

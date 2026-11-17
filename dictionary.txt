@@ -1,0 +1,5 @@
+apple:яблуко
+book:книга
+water:вода
+chupa chups:чупачупс
+зірка:star
